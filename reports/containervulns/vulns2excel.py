@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Example script showing how to use the LaceworkClient class.
+Example script showing how to use the LaceworkClient to grab vulnerabilities.
 """
 
 import logging
